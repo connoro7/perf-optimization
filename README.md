@@ -11,7 +11,7 @@ Supplemental materials to accompany my tech talk on advanced performance optimiz
 ## Relevant Links
 
 - [Brendan Gregg - Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
-- [Chrome Profiler](chrome://tracing/)
+- Chrome Profiler - chrome://tracing
 
 ## Demo Code
 
